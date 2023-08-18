@@ -9,7 +9,7 @@ To start application:
  - rebuild application (it should update all nuget dependencies)
  - run application 
 
-After run,  applications opens browser with swagger, 
+After run,  application opens browser with swagger, 
 it gives the ability to test implemented api
 
 
