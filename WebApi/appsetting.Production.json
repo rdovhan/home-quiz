@@ -1,0 +1,5 @@
+{
+  "ThirdPartyServiceSettings": {
+    "EndpointUri": "http://production.exapmle.com/request"
+  }
+}
